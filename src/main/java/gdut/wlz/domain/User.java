@@ -3,6 +3,7 @@ package gdut.wlz.domain;
 /**
  * @author: BUG_BOY
  * DATE:2020/11/18  10:50
+ * 用户信息
  */
 public class User {
 
